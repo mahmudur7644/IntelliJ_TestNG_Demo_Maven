@@ -3,15 +3,15 @@ import org.testng.annotations.Test;
 public class TestCases {
 
     @Test
-    void test1(){
+    void test1()
+    {
         System.out.println("Hello");
-        System.out.println(" I am fine");
+        System.out.println("I am fine");
     }
-
-
-
    @Test
-   void test2(){
+   void test2()
+   {
         System.out.println("Are you Mr. Rahman?");
+        System.out.println("I am Rahman");
     }
 }
