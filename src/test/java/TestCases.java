@@ -5,5 +5,6 @@ public class TestCases {
     @Test
     void test1(){
         System.out.println("Hello");
+        System.out.println(" I am fine");
     }
 }
