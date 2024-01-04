@@ -7,4 +7,11 @@ public class TestCases {
         System.out.println("Hello");
         System.out.println(" I am fine");
     }
+
+
+
+   @Test
+   void test2(){
+        System.out.println("Are you Mr. Rahman?");
+    }
 }
